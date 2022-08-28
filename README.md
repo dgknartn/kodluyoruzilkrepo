@@ -1,7 +1,7 @@
 # Kodluyoruz İlk repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) GIT Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](img/proje-gorsel)
+![github](https://i.hizliresim.com/5lju4l0.png)
 
 ## Installation
 
